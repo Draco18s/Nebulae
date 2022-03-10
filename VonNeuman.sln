@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{cd274e91-51a7-e1e4-0680-8d9192998419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assets.draco18s.translation.Runtime", "Assets.draco18s.translation.Runtime.csproj", "{c00645bb-d5dc-ae9b-5c3e-04e082ecd9a8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{65acfbe8-0b5f-f113-39d2-5f945e20dd5d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{cd274e91-51a7-e1e4-0680-8d9192998419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{cd274e91-51a7-e1e4-0680-8d9192998419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c00645bb-d5dc-ae9b-5c3e-04e082ecd9a8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c00645bb-d5dc-ae9b-5c3e-04e082ecd9a8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65acfbe8-0b5f-f113-39d2-5f945e20dd5d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65acfbe8-0b5f-f113-39d2-5f945e20dd5d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
