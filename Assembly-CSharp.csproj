@@ -48,9 +48,7 @@
      <None Include="Assets/draco18s/shaders/perlin.shader" />
      <None Include="Assets/Nebula Noise/NebShaderBig.shader" />
      <None Include="Assets/Nebula Noise/NebDark.shader" />
-     <None Include="Assets/ref.txt" />
      <None Include="Assets/Nebula Noise/NebDetail.shader" />
-     <None Include="Assets/Scriptables/ppm1_readme.txt" />
     <Reference Include="UnityEngine">
         <HintPath>/home/major/UnityHub/Editors/2020.3.30f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
